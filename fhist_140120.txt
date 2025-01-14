@@ -1,0 +1,67 @@
+    1  ls -l
+    2  cd /t/Entorno/daw1tgit/
+    3  git init
+    4  git status
+    5  git help
+    6  git config user.name "Gamer0-0-0-0"
+    7  git config user.gmail "gamer0jes@gmail.com"
+    8  git add EjemploFichero1.txt 
+    9  git status
+   10  git commit 
+   11  git config user.email "gamer0jes@gmail.com"
+   12  git config user.name "Gamer0-0-0-0"
+   13  git commit 
+   14  git status
+   15  git commit 
+   16  ls -l
+   17  ls -l Desktop/
+   18  cd /d
+   19  ls ..
+   20  ls ../..
+   21  ls ../../..
+   22  ls ../../../..
+   23  ls ../../../../..
+   24  cd /t
+   25  ls
+   26  cd Entornos/
+   27  ls
+   28  cd Entorno/
+   29  ls
+   30  ls
+   31  cd ..
+   32  ls
+   33  cd daw1tgit2/
+   34  cd ..
+   35  mkdir daw1tgit2
+   36  cd daw1tgit2
+   37  git init 
+   38  ls -a
+   39  ls -l
+   40  cd .git
+   41  ls
+   42  cd ..
+   43  git status 
+   44  git add primerospasos.txt 
+   45  git status 
+   46  git config --list
+   47  git config user.name="Gamer0-0-0-0"
+   48  git config user.email="gamer0jes@gmail.com" 
+   49  git config user.user="gamer0jes@gmail.com" 
+   50  git remote add origin "https://github.com/Gamer0-0-0-0/daw1tgit2.git"
+   51  ls
+   52  ls -l
+   53  history 
+   54  cd /t
+   55  ls
+   56  cd Entornos/daw1tgit2
+   57  ls -l  
+   58  ls -l -a 
+   59  ls -a -l
+   60  git --hepl
+   61  git --help
+   62  git config --list
+   63  history 
+   64  git config user.email "gamer0jes@gmail.com"
+   65  git config user.name "Gamer0-0-0-0"
+   66  git config --list
+   67  history > fhist_140120.txt
